@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(85): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(106): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(109): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(120): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\p007010\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(123): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication1.vcxproj -> C:\Users\p007010\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
